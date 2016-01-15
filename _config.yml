@@ -1,0 +1,28 @@
+name: Lynn Phan
+favicon: null
+layout_spectrum: 0.861935235094279
+typography_spectrum: 0.9297123772557825
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6988230762071908
+  lightness: 0.834026160184294
+  saturation: 0.14897460234351456
+  rhythmicContrast: 0.38981904089450836
+purpose: []
