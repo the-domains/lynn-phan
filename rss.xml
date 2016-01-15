@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Lynn Phan]]></title>
         <description><![CDATA[Lynn Phan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lynn-phan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 16:41:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 16:47:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lynn-phan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined45cb94d7-1376-4efd-b263-16f7c20e175e/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ddf08db-a344-4676-88d9-93eb2b809a07.jpg">]]></description>
+            <link>https://thegrid.ai/lynn-phan/45cb94d7-1376-4efd-b263-16f7c20e175e/index.html</link>
             <guid isPermaLink="false">45cb94d7-1376-4efd-b263-16f7c20e175e</guid>
-            <pubDate>Fri, 15 Jan 2016 16:41:34 GMT</pubDate>
+            <pubDate>Fri, 15 Jan 2016 16:47:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
